@@ -1,3 +1,7 @@
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/Goatleaf12/makefun-ai-excited-01-village-v9/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/Goatleaf12/makefun-ai-excited-01-village-v9/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
 # The Village That Sailed the Sky
 
 A 1024x1024 poster drawn from scratch in pure Python (standard library
